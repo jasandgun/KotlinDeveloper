@@ -1,7 +1,12 @@
 package signature
 
 fun main() {
-    println(" _____________\n" +
-            "| Hyper Skill |\n" +
-            " ¯¯¯¯¯¯¯¯¯¯¯¯¯")
+    val inp = readLine()!!
+    repeat(inp.length + 4){
+        print('*')
+    }
+    println("\n* $inp *")
+    repeat(inp.length + 4){
+        print('*')
+    }
 }
