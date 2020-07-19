@@ -8,6 +8,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -32,6 +33,7 @@
             <option value="$PROJECT_DIR$/Problems/Move the first N characters" />
             <option value="$PROJECT_DIR$/Problems/N-th symbol" />
             <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Number squared" />
             <option value="$PROJECT_DIR$/Problems/Print two numbers on the same line" />
             <option value="$PROJECT_DIR$/Problems/Right Rotation" />
             <option value="$PROJECT_DIR$/Problems/Right equation" />

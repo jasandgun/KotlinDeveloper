@@ -250,10 +250,13 @@ files:
 - name: src/signature/Main.kt
   visible: true
   learner_created: true
+- name: task-log.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/71/stages/392/implement
 status: Solved
 feedback:
   message: Congratulations! Continue on <a href="https://hyperskill.org/projects/71/stages/392/implement">JetBrains
     Academy</a>
   time: Wed, 08 Jul 2020 12:16:07 UTC
-record: -1
+record: 3
