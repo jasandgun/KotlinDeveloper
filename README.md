@@ -4,14 +4,15 @@
   * Simple Chatty Bot
 * Medium (Reinforce) :
   * ASCII Text Signature
-* Hard (Practice) :
-  * Parking Lot
   * Coffee Machine
   * Minesweeper
-  * Unit Converter
+  * Parking Lot
   * Smart Calculator
-* Challenging (Experience) :
-  * Simple Search Engine
+  * Unit Converter
+* Hard (Practice) :
   * Flashcards
   * Numeric Matrix Processor
-  * Phone Book 
+  * Phone Book
+  * Simple Search Engine
+* Challenging (Experience) :
+  * Seam Carving
