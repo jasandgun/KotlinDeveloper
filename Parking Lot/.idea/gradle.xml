@@ -4,6 +4,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="#JAVA_INTERNAL" />
@@ -11,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Parking Lot/task" />
+            <option value="$PROJECT_DIR$/Problems/Is it here" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
