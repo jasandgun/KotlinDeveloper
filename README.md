@@ -1,18 +1,18 @@
 # Kotlin Developer Projects
 
 * Easy (Starting) : 
-  * Simple Chatty Bot
+  - [x] Simple Chatty Bot (first)
 * Medium (Reinforce) :
-  * ASCII Text Signature
-  * Coffee Machine
-  * Minesweeper
-  * Parking Lot
-  * Smart Calculator
-  * Unit Converter
+  - [x] ASCII Text Signature (second)
+  - [x] Parking Lot (third)
+  - [ ] Coffee Machine
+  - [ ] Minesweeper
+  - [ ] Smart Calculator
+  - [ ] Unit Converter
 * Hard (Practice) :
-  * Flashcards
-  * Numeric Matrix Processor
-  * Phone Book
-  * Simple Search Engine
+  - [ ] Flashcards
+  - [ ] Numeric Matrix Processor
+  - [ ] Phone Book
+  - [ ] Simple Search Engine
 * Challenging (Experience) :
-  * Seam Carving
+  - [ ] Seam Carving
