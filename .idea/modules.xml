@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASCII Text Signature/ASCII Text Signature.iml" filepath="$PROJECT_DIR$/ASCII Text Signature/ASCII Text Signature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KotlinDeveloper.iml" filepath="$PROJECT_DIR$/.idea/KotlinDeveloper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parking Lot/Parking Lot.iml" filepath="$PROJECT_DIR$/Parking Lot/Parking Lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Chatty Bot/Simple Chatty Bot.iml" filepath="$PROJECT_DIR$/Simple Chatty Bot/Simple Chatty Bot.iml" />
+    </modules>
+  </component>
+</project>
